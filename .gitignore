@@ -1,0 +1,45 @@
+# ---- Unity 가 재생성하는 캐시 (용량 + C:\Users 절대경로 노출) ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ---- IDE 자동 생성 (경로·사용자명 포함) ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# ---- 빌드 산출물 ----
+*.apk
+*.aab
+*.unitypackage
+*.app
+ExportedObj/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 크래시 리포트 ----
+sysinfo.txt
+crashlytics-build.properties
+
+# 개인 정리 메모 (저장소에는 올리지 않음)
+PROJECT-NOTES.md

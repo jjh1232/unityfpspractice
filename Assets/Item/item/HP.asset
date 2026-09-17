@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4238ac77312b01418fe9aa7b04ef938, type: 3}
+  m_Name: HP
+  m_EditorClassIdentifier: Assembly-CSharp::item
+  itemName: HP
+  itemImage: {fileID: 21300000, guid: 813ec7b2a899a164fb5fdbbb16fb5d76, type: 3}
+  itemPrefab: {fileID: 8145024186076856983, guid: f181685fcba0cb24c83571b4e57696e0,
+    type: 3}
